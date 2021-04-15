@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/Read-my-news-ALAN_AI/static/css/main.f54283be.chunk.css",
+    "main.js": "/Read-my-news-ALAN_AI/static/js/main.5a727c41.chunk.js",
+    "main.js.map": "/Read-my-news-ALAN_AI/static/js/main.5a727c41.chunk.js.map",
+    "runtime-main.js": "/Read-my-news-ALAN_AI/static/js/runtime-main.26c52e83.js",
+    "runtime-main.js.map": "/Read-my-news-ALAN_AI/static/js/runtime-main.26c52e83.js.map",
+    "static/js/2.e82f414f.chunk.js": "/Read-my-news-ALAN_AI/static/js/2.e82f414f.chunk.js",
+    "static/js/2.e82f414f.chunk.js.map": "/Read-my-news-ALAN_AI/static/js/2.e82f414f.chunk.js.map",
+    "index.html": "/Read-my-news-ALAN_AI/index.html",
+    "static/css/main.f54283be.chunk.css.map": "/Read-my-news-ALAN_AI/static/css/main.f54283be.chunk.css.map",
+    "static/js/2.e82f414f.chunk.js.LICENSE.txt": "/Read-my-news-ALAN_AI/static/js/2.e82f414f.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.26c52e83.js",
+    "static/js/2.e82f414f.chunk.js",
+    "static/css/main.f54283be.chunk.css",
+    "static/js/main.5a727c41.chunk.js"
+  ]
+}
